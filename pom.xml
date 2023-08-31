@@ -8,7 +8,9 @@
   <name>GitWebSampleProject Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+
     -- comments update
+    -- comments xyz
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
