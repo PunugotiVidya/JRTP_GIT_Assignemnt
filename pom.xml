@@ -10,7 +10,7 @@
   <dependencies>
 
     -- comments update
-    -- comments xyz modified
+    -- comments xyz modified new
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
